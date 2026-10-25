@@ -1,0 +1,21 @@
+# Entornos virtuales
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# MLflow logs locales y artefactos temporales
+.trash/
+
+# Pruebas y cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Sistema operativo e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
