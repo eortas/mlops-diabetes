@@ -2,6 +2,9 @@
 
 Solucion completa de MLOps para un problema de regresion usando el dataset de diabetes de scikit-learn. El flujo cubre desde la exploracion inicial en Jupyter Notebook, validacion y limpieza de datos, entrenamiento con seguimiento de experimentos en MLflow, registro y seleccion de modelo campeon mediante Quality Gate, despliegue con FastAPI, observabilidad con Prometheus y Grafana, pruebas automatizadas con Pytest y pipeline de CI/CD con GitHub Actions.
 
+- Repositorio en GitHub: https://github.com/eortas/mlops-diabetes
+- Pipeline CI/CD Actions: https://github.com/eortas/mlops-diabetes/actions
+
 ---
 
 ## 1. Objetivo del Proyecto
